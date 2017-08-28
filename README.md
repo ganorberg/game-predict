@@ -1,2 +1,3 @@
 # machine-learning-video-game-sales
-Predict video game sales with regression analysis of 2016 sales data
+
+Predict video game sales for major publishers within $2.2B based on feature analysis of platform, genre and rating.
